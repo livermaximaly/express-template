@@ -22,3 +22,8 @@ Personal development log — notes, findings, and ongoing work.
 - Pinned dependency versions for reproducibility
 - Wrote notes on upcoming feature design
 - Updated CI cache strategy
+
+## 2026-03-23
+- Drafted initial implementation plan for v2
+- Added inline documentation for core functions
+- Reviewed open issues, added labels
