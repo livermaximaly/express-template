@@ -27,3 +27,7 @@ Personal development log — notes, findings, and ongoing work.
 - Drafted initial implementation plan for v2
 - Added inline documentation for core functions
 - Reviewed open issues, added labels
+
+## 2026-03-23
+- Added inline documentation for core functions
+- Fixed minor edge case in input handling
